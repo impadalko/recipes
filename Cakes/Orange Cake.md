@@ -13,7 +13,7 @@ Original recipe: https://panelinha.com.br/receita/bolo-de-laranja
 ## Instructions
 
 **For the Cake:**
-1. Preheat the oven to 180°C (350°F).
+1. Preheat the oven to 180°C.
 2. Cut 2 oranges into quarters, remove the white core and the seeds, and cut the pieces smaller. Place them into a blender.
 3. Add the eggs to the blender along with the oil and refined sugar. Blend well until smooth.
 4. In a medium bowl, mix the flour, oat bran, baking powder and salt. 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e55555dbd0e0074",
+        "id": "95dcc12feb80a717",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae0385d346e714c",
+            "id": "b3bea30499c4040e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cakes/Orange Cake.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Orange Cake"
+              "title": "New tab"
             }
           }
         ]
@@ -183,9 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ae0385d346e714c",
+  "active": "b3bea30499c4040e",
   "lastOpenFiles": [
     "Cakes/Orange Cake.md",
+    "Cakes/Cheesecake.md",
     "Cakes"
   ]
 }
