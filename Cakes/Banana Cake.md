@@ -1,3 +1,4 @@
+Original recipe: https://preppykitchen.com/chocolate-chip-banana-bread
 ## Ingredients
 
 * 3 very ripe bananas, mashed
@@ -20,6 +21,6 @@
 3. In a medium bowl, whisk together the flour, baking powder, baking soda, salt, cinnamon, and allspice.
 4. In a large bowl, beat the butter and sugar together until light and fluffy.
 5. Mix in the eggs one at a time, followed by the vanilla extract. Then, mix in the mashed bananas.
-6. Add the wet ingredients to the dry and mix until just combined.
+6. Add the dry ingredients to the wet and mix until just combined.
 7. Fold in the chocolate chips or chopped nuts, if using.
 8. Pour the batter into the prepared pan and bake.
