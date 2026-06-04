@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breads/Chocolate Babka Wreath.md",
+                "file": "Breakfast/Banana Pancakes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chocolate Babka Wreath"
+              "title": "Banana Pancakes"
             }
           }
         ]
@@ -185,12 +185,14 @@
   },
   "active": "7708e561827e25b8",
   "lastOpenFiles": [
+    "Breads/Chocolate Babka Wreath.md",
+    "Breakfast/Banana Pancakes.md",
+    "Breakfast",
     "Cakes/French Apple Cake.md",
     "Cakes/Orange Cake.md",
     "Cakes/Banana Cake.md",
     "Cakes/Cheesecake.md",
     "Mains/Stuffed Potato Waffles.md",
-    "Breads/Chocolate Babka Wreath.md",
     "Breads",
     "Mains",
     "Cakes"
