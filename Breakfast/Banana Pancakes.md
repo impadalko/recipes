@@ -1,3 +1,4 @@
+Original recipe: https://preppykitchen.com/banana-pancakes/
 ## Ingredients
 
 * 120 g flour
