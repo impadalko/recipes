@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cakes/Yogurt Cake.md",
+                "file": "Condiments/Pickled Red Onions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yogurt Cake"
+              "title": "Pickled Red Onions"
             }
           }
         ]
@@ -185,14 +185,16 @@
   },
   "active": "a011076434f4c765",
   "lastOpenFiles": [
-    "Cakes/Gâteau Breton.md",
     "Cakes/Orange Cake.md",
+    "Condiments/Pickled Red Onions.md",
+    "Cakes/Cheesecake.md",
     "Cakes/Yogurt Cake.md",
+    "Condiments",
+    "Cakes/Gâteau Breton.md",
     "Cakes/Brigadeiro Glaze.md",
     "Cakes/Banana Cake.md",
     "Cakes/French Apple Cake.md",
     "Desserts/Pavê Amansa Sogra.md",
-    "Cakes/Cheesecake.md",
     "Breakfast/Banana Pancakes.md",
     "Desserts",
     "Breads/Chocolate Babka Wreath.md",
