@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Condiments/Pickled Red Onions.md",
+                "file": "Pastries/Romeo and Juliet Sbriciolata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pickled Red Onions"
+              "title": "Romeo and Juliet Sbriciolata"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,8 +187,10 @@
   },
   "active": "a011076434f4c765",
   "lastOpenFiles": [
-    "Cakes/Orange Cake.md",
     "Condiments/Pickled Red Onions.md",
+    "Pastries/Romeo and Juliet Sbriciolata.md",
+    "Pastries",
+    "Cakes/Orange Cake.md",
     "Cakes/Cheesecake.md",
     "Cakes/Yogurt Cake.md",
     "Condiments",
