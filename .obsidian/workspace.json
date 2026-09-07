@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pastries/Crêpes.md",
+                "file": "Breads/Bagels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crêpes"
+              "title": "Bagels"
             }
           },
           {
@@ -201,8 +201,9 @@
   },
   "active": "a011076434f4c765",
   "lastOpenFiles": [
-    "Desserts/Double Chocolate Chip Cookies.md",
     "Pastries/Crêpes.md",
+    "Breads/Bagels.md",
+    "Desserts/Double Chocolate Chip Cookies.md",
     "Desserts/Cheesecake.md",
     "Desserts/Brownie.md",
     "Pastries/Romeo and Juliet Sbriciolata.md",
